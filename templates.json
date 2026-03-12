@@ -1,0 +1,27 @@
+[
+  {
+    "id": "chase-sapphire-preferred",
+    "name": "Sapphire Preferred",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 220266295,
+    "defaultTextColor": 4294951680,
+    "description": "Premium travel and dining rewards card",
+    "isActive": true,
+    "logoUrl": null,
+    "referralUrl": "https://www.google.com/",
+    "createdAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-03-10T02:31:14.000Z",
+    "perks": [
+      {
+        "title": "3x Dining",
+        "description": "3x points on dining worldwide",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      }
+    ]
+  }
+]
