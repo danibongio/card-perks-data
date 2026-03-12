@@ -6,7 +6,7 @@
     "network": "visa",
     "defaultColor": 220266295,
     "defaultTextColor": 4294951680,
-    "description": "Premium travel and dining rewards card",
+    "description": "Very Premium travel and dining rewards card",
     "isActive": true,
     "logoUrl": null,
     "referralUrl": "https://www.google.com/",
@@ -25,4 +25,5 @@
     ]
   }
 ]
+
 
