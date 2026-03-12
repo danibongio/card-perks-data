@@ -2,7 +2,7 @@
   {
     "id": "chase-sapphire-preferred",
     "name": "Sapphire Preferred",
-    "bank": "Chase",
+    "bank": "Chase test",
     "network": "visa",
     "defaultColor": 220266295,
     "defaultTextColor": 4294951680,
@@ -25,3 +25,4 @@
     ]
   }
 ]
+
