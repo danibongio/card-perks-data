@@ -9,7 +9,7 @@
     "description": "Premium travel and dining rewards card",
     "isActive": true,
     "logoUrl": null,
-    "referralUrl": "https://www.google.com/",
+    "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
     "updatedAt": "2026-03-10T02:31:00.000Z",
     "perks": [
@@ -188,10 +188,37 @@
     "updatedAt": "2026-03-10T02:31:00.000Z",
     "perks": [
       {
-        "title": "5x Rotating Categories",
-        "description": "5% cash back on rotating quarterly categories (up to $1,500/quarter)",
-        "emoji": "🔄",
+        "title": "5% Grocery Stores (Q1)",
+        "description": "5% cash back at grocery stores (excl. Walmart & Target) — Q1 2025, up to $1,500/quarter",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Gyms & Fitness (Q1)",
+        "description": "5% cash back at fitness clubs & gym memberships — Q1 2025, up to $1,500/quarter",
+        "emoji": "💪",
+        "category": "health",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Hair & Beauty (Q1)",
+        "description": "5% cash back at hair salons & beauty services — Q1 2025, up to $1,500/quarter",
+        "emoji": "💇",
         "category": "other",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Streaming (Q1)",
+        "description": "5% cash back on select streaming services (Netflix, Hulu, Disney+, Spotify, etc.) — Q1 2025, up to $1,500/quarter",
+        "emoji": "📺",
+        "category": "streaming",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
@@ -202,7 +229,7 @@
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
@@ -710,10 +737,19 @@
     "updatedAt": "2026-03-10T02:31:00.000Z",
     "perks": [
       {
-        "title": "5% Rotating Categories",
-        "description": "5% cash back on rotating quarterly categories (up to $1,500/quarter)",
-        "emoji": "🔄",
-        "category": "other",
+        "title": "5% Restaurants (Q1)",
+        "description": "5% cash back at restaurants — Q1 2025, up to $1,500/quarter",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Drugstores (Q1)",
+        "description": "5% cash back at drugstores — Q1 2025, up to $1,500/quarter",
+        "emoji": "💊",
+        "category": "health",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
@@ -816,4 +852,3 @@
     ]
   }
 ]
-
