@@ -8,6 +8,14 @@
     "defaultTextColor": 4294967295,
     "description": "Premium travel and dining rewards card",
     "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "60,000 bonus points after spending $4,000 in the first 3 months",
+      "value": 60000,
+      "valueType": "points",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -60,6 +68,14 @@
     "defaultTextColor": 4294951680,
     "description": "Ultra-premium travel card with $300 annual travel credit",
     "isActive": true,
+    "annualFee": 550,
+    "signupBonus": {
+      "description": "60,000 bonus points after spending $4,000 in the first 3 months",
+      "value": 60000,
+      "valueType": "points",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -130,6 +146,14 @@
     "defaultTextColor": 4294967295,
     "description": "Flat-rate cash back on every purchase with no annual fee",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash back after spending $500 in the first 3 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 500,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -182,6 +206,14 @@
     "defaultTextColor": 4294967295,
     "description": "5% rotating categories plus everyday cash back, no annual fee",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash back after spending $500 in the first 3 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 500,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -270,6 +302,14 @@
     "defaultTextColor": 4278190080,
     "description": "Top rewards on dining and US supermarkets",
     "isActive": true,
+    "annualFee": 250,
+    "signupBonus": {
+      "description": "60,000 Membership Rewards points after spending $6,000 in the first 6 months",
+      "value": 60000,
+      "valueType": "points",
+      "spendRequirement": 6000,
+      "validityMonths": 6
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -331,6 +371,14 @@
     "defaultTextColor": 4294951680,
     "description": "The ultimate premium travel card with extensive credits and lounge access",
     "isActive": true,
+    "annualFee": 695,
+    "signupBonus": {
+      "description": "80,000 Membership Rewards points after spending $8,000 in the first 6 months",
+      "value": 80000,
+      "valueType": "points",
+      "spendRequirement": 8000,
+      "validityMonths": 6
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -410,6 +458,14 @@
     "defaultTextColor": 4294967295,
     "description": "Best-in-class cash back at US supermarkets and streaming",
     "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "$250 statement credit after spending $3,000 in the first 6 months",
+      "value": 250,
+      "valueType": "cashback",
+      "spendRequirement": 3000,
+      "validityMonths": 6
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -471,6 +527,14 @@
     "defaultTextColor": 4294967295,
     "description": "Everyday cash back with no annual fee",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 statement credit after spending $2,000 in the first 6 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 2000,
+      "validityMonths": 6
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -523,6 +587,14 @@
     "defaultTextColor": 4294967295,
     "description": "Simple 2% cash back on everything — no categories to track",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash back after spending $1,500 in the first 6 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 1500,
+      "validityMonths": 6
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -548,6 +620,14 @@
     "defaultTextColor": 4294967295,
     "description": "3x points across five everyday categories",
     "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "60,000 ThankYou points after spending $4,000 in the first 3 months",
+      "value": 60000,
+      "valueType": "points",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -618,6 +698,14 @@
     "defaultTextColor": 4294967295,
     "description": "Flat-rate miles on every purchase with flexible redemption",
     "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "75,000 miles after spending $4,000 in the first 3 months",
+      "value": 75000,
+      "valueType": "miles",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -661,6 +749,14 @@
     "defaultTextColor": 4294967295,
     "description": "Premium travel card with $300 travel credit and lounge access",
     "isActive": true,
+    "annualFee": 395,
+    "signupBonus": {
+      "description": "75,000 miles after spending $4,000 in the first 3 months",
+      "value": 75000,
+      "valueType": "miles",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -731,6 +827,14 @@
     "defaultTextColor": 4278190080,
     "description": "5% rotating categories plus Cashback Match the first year",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "Unlimited Cashback Match — all cash back earned in the first year is automatically doubled",
+      "value": null,
+      "valueType": "cashback",
+      "spendRequirement": null,
+      "validityMonths": 12
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -783,6 +887,14 @@
     "defaultTextColor": 4294967295,
     "description": "Unlimited 2% cash rewards on every purchase, no annual fee",
     "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash rewards bonus after spending $500 in the first 3 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 500,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -808,6 +920,14 @@
     "defaultTextColor": 4294967295,
     "description": "Travel rewards with up to 2x points and valuable annual credits",
     "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "60,000 online bonus points after spending $4,000 in the first 90 days",
+      "value": 60000,
+      "valueType": "points",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
@@ -850,8 +970,1271 @@
         "validityMonths": null
       }
     ]
+  },
+  {
+    "id": "chase-ink-business-preferred",
+    "name": "Ink Business Preferred",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 4278202503,
+    "defaultTextColor": 4294967295,
+    "description": "Top business rewards on travel and key spending categories",
+    "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "90,000 bonus points after spending $8,000 in the first 3 months",
+      "value": 90000,
+      "valueType": "points",
+      "spendRequirement": 8000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "3x Travel",
+        "description": "3x points on travel, shipping, internet, cable, phone and advertising (up to $150,000/year combined)",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Shipping",
+        "description": "3x points on shipping purchases (up to $150,000/year combined)",
+        "emoji": "📦",
+        "category": "other",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Advertising",
+        "description": "3x points on social media and search engine advertising (up to $150,000/year combined)",
+        "emoji": "📢",
+        "category": "other",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "chase-united-explorer",
+    "name": "United Explorer",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 4278190131,
+    "defaultTextColor": 4294967295,
+    "description": "United Airlines co-branded card with free checked bag and lounge passes",
+    "isActive": true,
+    "annualFee": 150,
+    "signupBonus": {
+      "description": "80,000 miles after spending $3,000 in the first 3 months",
+      "value": 80000,
+      "valueType": "miles",
+      "spendRequirement": 3000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "2x United Purchases",
+        "description": "2x miles on United flight purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining",
+        "description": "2x miles at restaurants including delivery services",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Hotels",
+        "description": "2x miles on hotel stays when booked directly",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Checked Bag",
+        "description": "First bag free for you and one companion on United flights",
+        "emoji": "🧳",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2 United Club Passes",
+        "description": "2 United Club one-time passes each year",
+        "emoji": "🛋️",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x miles on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "chase-world-of-hyatt",
+    "name": "World of Hyatt",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 4278202503,
+    "defaultTextColor": 4294967295,
+    "description": "Best hotel card for Hyatt loyalists with a free night every anniversary",
+    "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "30,000 Bonus Points after spending $3,000 in the first 3 months",
+      "value": 30000,
+      "valueType": "points",
+      "spendRequirement": 3000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "4x Hyatt Hotels",
+        "description": "4x Hyatt points at Hyatt hotels, plus up to 5x more as a World of Hyatt member",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 4,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining",
+        "description": "2x points at restaurants",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Flights",
+        "description": "2x points on airline tickets purchased directly from airlines",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Local Transit",
+        "description": "2x points on local transit and commuting including rideshare",
+        "emoji": "🚇",
+        "category": "transit",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Anniversary Night",
+        "description": "One free night at any Category 1-4 Hyatt property each year",
+        "emoji": "🎁",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "chase-ihg-premier",
+    "name": "IHG One Rewards Premier",
+    "bank": "Chase",
+    "network": "mastercard",
+    "defaultColor": 4290000000,
+    "defaultTextColor": 4294967295,
+    "description": "Premium IHG hotel card with free anniversary night and Platinum Elite status",
+    "isActive": true,
+    "annualFee": 99,
+    "signupBonus": {
+      "description": "140,000 bonus points after spending $3,000 in the first 3 months",
+      "value": 140000,
+      "valueType": "points",
+      "spendRequirement": 3000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "26x IHG Hotels",
+        "description": "Up to 26x total points per $1 at IHG Hotels and Resorts",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 26,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5x Travel & Dining",
+        "description": "5x points on travel and dining purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Everything Else",
+        "description": "3x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Anniversary Night",
+        "description": "Reward night (up to 40,000 points) each account anniversary",
+        "emoji": "🎁",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Platinum Elite Status",
+        "description": "Automatic IHG One Rewards Platinum Elite status",
+        "emoji": "💎",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Global Entry / TSA PreCheck",
+        "description": "Up to $120 credit for Global Entry, TSA PreCheck, or NEXUS every 4 years",
+        "emoji": "🛂",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "chase-marriott-boundless",
+    "name": "Marriott Bonvoy Boundless",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 4286021766,
+    "defaultTextColor": 4294967295,
+    "description": "Mid-tier Marriott card with annual free night and automatic Silver Elite status",
+    "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "3 Free Night Awards (up to 50,000 points each) after spending $3,000 in the first 3 months",
+      "value": 150000,
+      "valueType": "points",
+      "spendRequirement": 3000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "17x Marriott Hotels",
+        "description": "Up to 17x total points per $1 at Marriott Bonvoy hotels",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 17,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Grocery, Gas & Dining",
+        "description": "3x points on first $6,000/year in combined grocery, gas station and dining purchases",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Everything Else",
+        "description": "2x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Anniversary Night",
+        "description": "Free night award (up to 35,000 points) each account anniversary",
+        "emoji": "🎁",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Silver Elite Status",
+        "description": "Automatic Marriott Bonvoy Silver Elite Status each calendar year",
+        "emoji": "🥈",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "chase-southwest-plus",
+    "name": "Southwest Rapid Rewards Plus",
+    "bank": "Chase",
+    "network": "visa",
+    "defaultColor": 4294931968,
+    "defaultTextColor": 4294967295,
+    "description": "Entry-level Southwest card for earning Rapid Rewards points toward the Companion Pass",
+    "isActive": true,
+    "annualFee": 69,
+    "signupBonus": {
+      "description": "50,000 bonus points after spending $1,000 in the first 3 months",
+      "value": 50000,
+      "valueType": "points",
+      "spendRequirement": 1000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "2x Southwest Purchases",
+        "description": "2x points on Southwest purchases including flights and hotels",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Rapid Rewards Partners",
+        "description": "2x points on hotel and car rental partners",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "3,000 Anniversary Points",
+        "description": "3,000 bonus points each card anniversary",
+        "emoji": "🎁",
+        "category": "other",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-gold",
+    "name": "Delta SkyMiles Gold",
+    "bank": "American Express",
+    "network": "amex",
+    "defaultColor": 4291340368,
+    "defaultTextColor": 4278190080,
+    "description": "Mid-tier Delta card with free checked bag and dining rewards",
+    "isActive": true,
+    "annualFee": 150,
+    "signupBonus": {
+      "description": "70,000 miles after spending $3,000 in the first 6 months",
+      "value": 70000,
+      "valueType": "miles",
+      "spendRequirement": 3000,
+      "validityMonths": 6
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "2x Delta Purchases",
+        "description": "2x miles on Delta purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining",
+        "description": "2x miles at restaurants worldwide including takeout and delivery",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x US Supermarkets",
+        "description": "2x miles at U.S. supermarkets",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Checked Bag",
+        "description": "First checked bag free on Delta flights for you and up to 8 companions",
+        "emoji": "🧳",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "$200 Delta Flight Credit",
+        "description": "Up to $200 Delta flight credit after spending $10,000 in a calendar year",
+        "emoji": "💰",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x miles on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "amex-delta-platinum",
+    "name": "Delta SkyMiles Platinum",
+    "bank": "American Express",
+    "network": "amex",
+    "defaultColor": 4284046721,
+    "defaultTextColor": 4294967295,
+    "description": "Premium Delta card with companion certificate and MQD boost",
+    "isActive": true,
+    "annualFee": 350,
+    "signupBonus": {
+      "description": "80,000 miles after spending $4,000 in the first 6 months, plus 20,000 more after additional $2,000",
+      "value": 100000,
+      "valueType": "miles",
+      "spendRequirement": 4000,
+      "validityMonths": 6
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "3x Delta Purchases",
+        "description": "3x miles on Delta purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Dining & Hotels",
+        "description": "3x miles at restaurants and eligible hotels",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x US Supermarkets",
+        "description": "2x miles at U.S. supermarkets",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Companion Certificate",
+        "description": "Annual domestic Main Cabin companion certificate after renewal",
+        "emoji": "🎫",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Checked Bag",
+        "description": "First checked bag free for you and up to 8 companions on Delta flights",
+        "emoji": "🧳",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Global Entry / TSA PreCheck",
+        "description": "Up to $120 credit for Global Entry or TSA PreCheck every 4 years",
+        "emoji": "🛂",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "amex-hilton-surpass",
+    "name": "Hilton Honors Surpass",
+    "bank": "American Express",
+    "network": "amex",
+    "defaultColor": 4283520822,
+    "defaultTextColor": 4294967295,
+    "description": "Mid-tier Hilton card with Gold status and annual free night reward",
+    "isActive": true,
+    "annualFee": 150,
+    "signupBonus": {
+      "description": "130,000 Hilton Honors Bonus Points plus a free night after spending $3,000 in the first 6 months",
+      "value": 130000,
+      "valueType": "points",
+      "spendRequirement": 3000,
+      "validityMonths": 6
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "12x Hilton Hotels",
+        "description": "12x Hilton Honors points on purchases made at hotels within the Hilton portfolio",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 12,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "6x Dining & Groceries",
+        "description": "6x points at U.S. restaurants and U.S. supermarkets",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 6,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "6x Gas Stations",
+        "description": "6x points at U.S. gas stations",
+        "emoji": "⛽",
+        "category": "gas",
+        "cashbackPercent": 6,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Everything Else",
+        "description": "3x points on all other eligible purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "Gold Status",
+        "description": "Complimentary Hilton Honors Gold Status",
+        "emoji": "🥇",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Night Reward",
+        "description": "One free night reward after spending $15,000 on the card in a calendar year",
+        "emoji": "🎁",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "amex-marriott-brilliant",
+    "name": "Marriott Bonvoy Brilliant",
+    "bank": "American Express",
+    "network": "amex",
+    "defaultColor": 4285557478,
+    "defaultTextColor": 4294967295,
+    "description": "Premium Marriott card with Platinum Elite status and annual free night",
+    "isActive": true,
+    "annualFee": 650,
+    "signupBonus": {
+      "description": "185,000 bonus points after spending $6,000 in the first 6 months",
+      "value": 185000,
+      "valueType": "points",
+      "spendRequirement": 6000,
+      "validityMonths": 6
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "18.5x Marriott Hotels",
+        "description": "Up to 18.5x total Marriott Bonvoy points per $1 at Marriott properties",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 18,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "6x Dining",
+        "description": "6x points at restaurants worldwide",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 6,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Flights",
+        "description": "3x points on flights booked directly with airlines",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "$300 Marriott Dining Credit",
+        "description": "Up to $300 in statement credits at Marriott restaurants (up to $25/month)",
+        "emoji": "💰",
+        "category": "dining",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Anniversary Night",
+        "description": "Annual free night award valid at properties up to 85,000 points",
+        "emoji": "🎁",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Platinum Elite Status",
+        "description": "Complimentary Marriott Bonvoy Platinum Elite status",
+        "emoji": "💎",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Global Entry / TSA PreCheck",
+        "description": "Up to $100 credit for Global Entry or TSA PreCheck every 4.5 years",
+        "emoji": "🛂",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "citi-custom-cash",
+    "name": "Custom Cash",
+    "bank": "Citi",
+    "network": "mastercard",
+    "defaultColor": 4278205295,
+    "defaultTextColor": 4294967295,
+    "description": "Auto-adapting 5% cash back in your top eligible spend category each billing cycle",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash back after spending $1,500 in the first 6 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 1500,
+      "validityMonths": 6
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "5% Top Category",
+        "description": "5% cash back on purchases in your top eligible spend category each billing cycle (up to $500/cycle)",
+        "emoji": "🏆",
+        "category": "other",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1% Everything Else",
+        "description": "1% cash back on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "citi-strata-premier",
+    "name": "Citi Strata Premier",
+    "bank": "Citi",
+    "network": "mastercard",
+    "defaultColor": 4278205295,
+    "defaultTextColor": 4294967295,
+    "description": "Versatile travel card with 3x on a wide range of everyday categories",
+    "isActive": true,
+    "annualFee": 95,
+    "signupBonus": {
+      "description": "75,000 ThankYou points after spending $4,000 in the first 3 months",
+      "value": 75000,
+      "valueType": "points",
+      "spendRequirement": 4000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "3x Hotels & Air Travel",
+        "description": "3x ThankYou points on hotels, air travel, and car rentals",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Restaurants",
+        "description": "3x ThankYou points at restaurants",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Supermarkets",
+        "description": "3x ThankYou points at supermarkets",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Gas Stations",
+        "description": "3x ThankYou points at gas stations and EV charging stations",
+        "emoji": "⛽",
+        "category": "gas",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "$100 Hotel Savings",
+        "description": "$100 annual savings benefit for a single hotel stay of $500+ booked through CitiTravel",
+        "emoji": "💰",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x ThankYou points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "citi-aadvantage-platinum",
+    "name": "AAdvantage Platinum Select",
+    "bank": "Citi",
+    "network": "mastercard",
+    "defaultColor": 4283325693,
+    "defaultTextColor": 4294967295,
+    "description": "American Airlines co-branded card with miles on everyday spending and travel perks",
+    "isActive": true,
+    "annualFee": 99,
+    "signupBonus": {
+      "description": "50,000 AAdvantage miles after spending $2,500 in the first 3 months",
+      "value": 50000,
+      "valueType": "miles",
+      "spendRequirement": 2500,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "2x American Airlines",
+        "description": "2x miles on eligible American Airlines purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining & Gas",
+        "description": "2x miles at restaurants and gas stations",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Free Checked Bag",
+        "description": "First checked bag free for you and up to 4 companions on domestic AA flights",
+        "emoji": "🧳",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "Preferred Boarding",
+        "description": "Preferred boarding on American Airlines flights",
+        "emoji": "🚪",
+        "category": "travel",
+        "cashbackPercent": null,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x miles on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "capital-one-savor",
+    "name": "Savor Cash Rewards",
+    "bank": "Capital One",
+    "network": "mastercard",
+    "defaultColor": 4291042874,
+    "defaultTextColor": 4294967295,
+    "description": "Best-in-class cash back on dining, entertainment and groceries — no annual fee",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash bonus after spending $500 in the first 3 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 500,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "3% Dining",
+        "description": "3% cash back at restaurants, bars, and dining delivery services",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3% Grocery Stores",
+        "description": "3% cash back at grocery stores (excluding superstores like Walmart and Target)",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3% Entertainment",
+        "description": "3% cash back on popular entertainment including streaming services",
+        "emoji": "🎭",
+        "category": "streaming",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1% Everything Else",
+        "description": "1% cash back on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "capital-one-quicksilver",
+    "name": "Quicksilver Cash Rewards",
+    "bank": "Capital One",
+    "network": "mastercard",
+    "defaultColor": 4290627585,
+    "defaultTextColor": 4294967295,
+    "description": "Simple flat 1.5% cash back on every purchase with no annual fee",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 cash bonus after spending $500 in the first 3 months",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 500,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "1.5% Everything",
+        "description": "Unlimited 1.5% cash back on every purchase, every day",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1.5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Hotels & Rentals",
+        "description": "5% cash back on hotels and rental cars booked through Capital One Travel",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "usbank-altitude-connect",
+    "name": "Altitude Connect",
+    "bank": "US Bank",
+    "network": "visa",
+    "defaultColor": 4281712640,
+    "defaultTextColor": 4294967295,
+    "description": "Travel rewards card with strong returns on travel and gas — no annual fee",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "20,000 bonus points after spending $1,000 in the first 90 days",
+      "value": 20000,
+      "valueType": "points",
+      "spendRequirement": 1000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "5x Travel via Portal",
+        "description": "5x points on prepaid hotels and car rentals through the Altitude Rewards Center",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "4x Airlines & Hotels",
+        "description": "4x points on travel including airlines, hotels, car rentals, and rideshares",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 4,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "4x Gas & EV Charging",
+        "description": "4x points at gas stations and EV charging stations",
+        "emoji": "⛽",
+        "category": "gas",
+        "cashbackPercent": 4,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining & Streaming",
+        "description": "2x points at restaurants and on eligible streaming services",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "usbank-cash-plus",
+    "name": "Cash+ Visa Signature",
+    "bank": "US Bank",
+    "network": "visa",
+    "defaultColor": 4281712640,
+    "defaultTextColor": 4294967295,
+    "description": "Choose your own 5% cash back categories with no annual fee",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 rewards bonus after spending $1,000 in the first 90 days",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 1000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "5% Two Choice Categories",
+        "description": "5% cash back on your first $2,000 in combined eligible purchases per quarter in two categories you choose (e.g. TV/internet/streaming, fast food, home utilities)",
+        "emoji": "🏆",
+        "category": "other",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2% One Everyday Category",
+        "description": "2% cash back on one everyday category you choose (e.g. gas stations, restaurants, grocery stores)",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1% Everything Else",
+        "description": "1% cash back on all other eligible purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "bofa-customized-cash",
+    "name": "Customized Cash Rewards",
+    "bank": "Bank of America",
+    "network": "visa",
+    "defaultColor": 4290787882,
+    "defaultTextColor": 4294967295,
+    "description": "Choose your 3% category every month with 2% on groceries — no annual fee",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "$200 online cash rewards bonus after spending $1,000 in the first 90 days",
+      "value": 200,
+      "valueType": "cashback",
+      "spendRequirement": 1000,
+      "validityMonths": 3
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "3% Choice Category",
+        "description": "3% cash back in a category you choose: gas, online shopping, dining, travel, drug stores or home improvement (up to $2,500/quarter)",
+        "emoji": "🏆",
+        "category": "other",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2% Grocery & Wholesale",
+        "description": "2% cash back at grocery stores and wholesale clubs (up to $2,500/quarter combined with choice category)",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1% Everything Else",
+        "description": "1% cash back on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
+  },
+  {
+    "id": "bilt-mastercard",
+    "name": "Bilt Mastercard",
+    "bank": "Wells Fargo",
+    "network": "mastercard",
+    "defaultColor": 4278190080,
+    "defaultTextColor": 4294967295,
+    "description": "Earn points on rent payments with no transaction fee — unique no-annual-fee travel card",
+    "isActive": true,
+    "annualFee": 0,
+    "signupBonus": {
+      "description": "No traditional signup bonus — earn points from your first rent payment",
+      "value": null,
+      "valueType": "points",
+      "spendRequirement": null,
+      "validityMonths": null
+    },
+    "logoUrl": null,
+    "referralUrl": null,
+    "createdAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "perks": [
+      {
+        "title": "1x Rent (no fee)",
+        "description": "1x Bilt points on rent payments up to $50,000/year with no transaction fee",
+        "emoji": "🏠",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Dining",
+        "description": "3x points at restaurants on the first day of each month (Rent Day)",
+        "emoji": "🍽️",
+        "category": "dining",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Travel",
+        "description": "2x points on travel (booked directly with airlines, hotels, etc.)",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases (must make 5 transactions per statement period)",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
+        "isFeatured": false,
+        "validityMonths": null
+      }
+    ]
   }
 ]
-
-
-
