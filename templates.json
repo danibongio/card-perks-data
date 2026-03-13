@@ -737,7 +737,7 @@
     "updatedAt": "2026-03-10T02:31:00.000Z",
     "perks": [
       {
-        "title": "20% Restaurants (Q1)",
+        "title": "5% Restaurants (Q1)",
         "description": "5% cash back at restaurants — Q1 2025, up to $1,500/quarter",
         "emoji": "🍽️",
         "category": "dining",
@@ -852,5 +852,6 @@
     ]
   }
 ]
+
 
 
