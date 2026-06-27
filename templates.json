@@ -217,40 +217,40 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-06-23T00:00:00.000Z",
     "perks": [
       {
-        "title": "5% Grocery Stores (Q1)",
-        "description": "5% cash back at grocery stores (excl. Walmart & Target) — Q1 2025, up to $1,500/quarter",
-        "emoji": "🛒",
-        "category": "groceries",
+        "title": "5% Gas & EV Charging (Q3)",
+        "description": "5% cash back at gas stations & EV charging — Q3 2026 (activate by Sep 14), up to $1,500/quarter",
+        "emoji": "⛽",
+        "category": "gas",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "5% Gyms & Fitness (Q1)",
-        "description": "5% cash back at fitness clubs & gym memberships — Q1 2025, up to $1,500/quarter",
-        "emoji": "💪",
-        "category": "health",
+        "title": "5% Public Transit (Q3)",
+        "description": "5% cash back on public transit — trains, buses, ferries, tolls, parking — Q3 2026 (activate by Sep 14), up to $1,500/quarter",
+        "emoji": "🚇",
+        "category": "transit",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "5% Hair & Beauty (Q1)",
-        "description": "5% cash back at hair salons & beauty services — Q1 2025, up to $1,500/quarter",
-        "emoji": "💇",
+        "title": "5% Live Entertainment (Q3)",
+        "description": "5% cash back on select live entertainment — concerts, sporting events, zoos, amusement parks — Q3 2026 (activate by Sep 14), up to $1,500/quarter",
+        "emoji": "🎟️",
+        "category": "entertainment",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% United Way Donations (Q3)",
+        "description": "5% cash back on charitable donations through official United Way channels — Q3 2026 (activate by Sep 14), up to $1,500/quarter",
+        "emoji": "❤️",
         "category": "other",
-        "cashbackPercent": 5,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "5% Streaming (Q1)",
-        "description": "5% cash back on select streaming services (Netflix, Hulu, Disney+, Spotify, etc.) — Q1 2025, up to $1,500/quarter",
-        "emoji": "📺",
-        "category": "streaming",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
@@ -838,20 +838,38 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-06-23T00:00:00.000Z",
     "perks": [
       {
-        "title": "5% Restaurants (Q1)",
-        "description": "5% cash back at restaurants — Q1 2025, up to $1,500/quarter",
-        "emoji": "🍽️",
-        "category": "dining",
+        "title": "5% Gas & EV Charging (Q3)",
+        "description": "5% cash back at gas stations & EV charging — Q3 2026 (activation required), up to $1,500/quarter",
+        "emoji": "⛽",
+        "category": "gas",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "5% Drugstores (Q1)",
-        "description": "5% cash back at drugstores — Q1 2025, up to $1,500/quarter",
+        "title": "5% Public Transit (Q3)",
+        "description": "5% cash back on public transportation — Q3 2026 (activation required), up to $1,500/quarter",
+        "emoji": "🚇",
+        "category": "transit",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Flights (Q3)",
+        "description": "5% cash back on flights — Q3 2026 (activation required), up to $1,500/quarter",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5% Drugstores (Q3)",
+        "description": "5% cash back at drugstores — Q3 2026 (activation required), up to $1,500/quarter",
         "emoji": "💊",
         "category": "health",
         "cashbackPercent": 5,
