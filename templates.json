@@ -17,7 +17,7 @@
       "validityMonths": 3
     },
     "logoUrl": null,
-    "referralUrl": "https://www.google.com/",
+    "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
     "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
@@ -585,84 +585,6 @@
     ]
   },
   {
-    "id": "citi-premier",
-    "name": "Citi Premier",
-    "bank": "Citi",
-    "network": "mastercard",
-    "defaultColor": 4278205295,
-    "defaultTextColor": 4294967295,
-    "description": "3x points across five everyday categories",
-    "isActive": true,
-    "annualFee": 95,
-    "signupBonus": {
-      "description": "60,000 ThankYou points after spending $4,000 in the first 3 months",
-      "value": 60000,
-      "valueType": "points",
-      "spendRequirement": 4000,
-      "validityMonths": 3
-    },
-    "logoUrl": null,
-    "referralUrl": null,
-    "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
-    "perks": [
-      {
-        "title": "3x Restaurants",
-        "description": "3x ThankYou points at restaurants",
-        "emoji": "🍽️",
-        "category": "dining",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3x Supermarkets",
-        "description": "3x ThankYou points at supermarkets",
-        "emoji": "🛒",
-        "category": "groceries",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3x Gas Stations",
-        "description": "3x ThankYou points at gas stations",
-        "emoji": "⛽",
-        "category": "gas",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3x Hotels",
-        "description": "3x ThankYou points on hotel stays",
-        "emoji": "🏨",
-        "category": "travel",
-        "cashbackPercent": 3,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "3x Air Travel",
-        "description": "3x ThankYou points on air travel",
-        "emoji": "✈️",
-        "category": "travel",
-        "cashbackPercent": 3,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "1x Everything Else",
-        "description": "1x ThankYou points on all other purchases",
-        "emoji": "💳",
-        "category": "other",
-        "cashbackPercent": 1,
-        "isFeatured": false,
-        "validityMonths": null
-      }
-    ]
-  },
-  {
     "id": "capital-one-venture",
     "name": "Venture Rewards",
     "bank": "Capital One",
@@ -757,7 +679,7 @@
   },
   {
     "id": "discover-it-cash-back",
-    "name": "Discover it Cash Back",
+    "name": "it Cash Back",
     "bank": "Discover",
     "network": "discover",
     "defaultColor": 4294929152,
@@ -775,7 +697,7 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-06-23T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "5% Gas & EV Charging (Q3)",
@@ -2161,29 +2083,23 @@
   },
   {
     "id": "bilt-mastercard",
-    "name": "Bilt Mastercard",
-    "bank": "Wells Fargo",
+    "name": "Blue Card",
+    "bank": "Bilt",
     "network": "mastercard",
     "defaultColor": 4278190080,
     "defaultTextColor": 4294967295,
-    "description": "NOTE: Wells Fargo exited Bilt in early 2026; Bilt 2.0 is now issued by Cardless. Verify/replace or remove.",
+    "description": "No-fee Bilt card — earn points on rent & mortgage with no transaction fee",
     "isActive": true,
     "annualFee": 0,
-    "signupBonus": {
-      "description": "No traditional signup bonus — earn points from your first rent payment",
-      "value": null,
-      "valueType": "points",
-      "spendRequirement": null,
-      "validityMonths": null
-    },
+    "signupBonus": null,
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
     "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "1x Rent (no fee)",
-        "description": "1x Bilt points on rent payments up to $50,000/year with no transaction fee",
+        "title": "1x Rent & Mortgage",
+        "description": "Points on rent & mortgage payments, no transaction fee",
         "emoji": "🏠",
         "category": "other",
         "cashbackPercent": 1,
@@ -2192,7 +2108,7 @@
       },
       {
         "title": "3x Dining",
-        "description": "3x points at restaurants on the first day of each month (Rent Day)",
+        "description": "3x points on dining",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
@@ -2201,16 +2117,16 @@
       },
       {
         "title": "2x Travel",
-        "description": "2x points on travel (booked directly with airlines, hotels, etc.)",
+        "description": "2x points on travel",
         "emoji": "✈️",
         "category": "travel",
         "cashbackPercent": 2,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
         "title": "1x Everything Else",
-        "description": "1x points on all other purchases (must make 5 transactions per statement period)",
+        "description": "1x points on all other purchases",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1,
@@ -2613,93 +2529,6 @@
     ]
   },
   {
-    "id": "capital-one-savorone",
-    "name": "SavorOne",
-    "bank": "Capital One",
-    "network": "mastercard",
-    "defaultColor": 4283913018,
-    "defaultTextColor": 4294967295,
-    "description": "No annual fee card with unlimited 3% back on dining, entertainment, groceries, and streaming",
-    "isActive": true,
-    "annualFee": 0,
-    "signupBonus": {
-      "description": "$200 cash bonus after spending $500 in the first 3 months",
-      "value": 200,
-      "valueType": "cashback",
-      "spendRequirement": 500,
-      "validityMonths": 3
-    },
-    "logoUrl": null,
-    "referralUrl": null,
-    "createdAt": "2026-03-17T00:00:00.000Z",
-    "updatedAt": "2026-03-17T00:00:00.000Z",
-    "perks": [
-      {
-        "title": "3% Dining",
-        "description": "3% cash back at restaurants",
-        "emoji": "🍽️",
-        "category": "dining",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3% Entertainment",
-        "description": "3% cash back on entertainment (movies, sporting events, concerts, etc.)",
-        "emoji": "🎬",
-        "category": "entertainment",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3% Streaming",
-        "description": "3% cash back on popular streaming services",
-        "emoji": "📺",
-        "category": "streaming",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "3% Grocery Stores",
-        "description": "3% cash back at grocery stores (excluding superstores like Walmart and Target)",
-        "emoji": "🛒",
-        "category": "groceries",
-        "cashbackPercent": 3,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "5% Hotels & Rentals",
-        "description": "5% cash back on hotels and rental cars booked through Capital One Travel",
-        "emoji": "🏨",
-        "category": "travel",
-        "cashbackPercent": 5,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "8% Capital One Entertainment",
-        "description": "8% cash back on tickets purchased through Capital One Entertainment",
-        "emoji": "🎟️",
-        "category": "entertainment",
-        "cashbackPercent": 8,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "1% Everything Else",
-        "description": "1% cash back on all other purchases",
-        "emoji": "💳",
-        "category": "other",
-        "cashbackPercent": 1,
-        "isFeatured": false,
-        "validityMonths": null
-      }
-    ]
-  },
-  {
     "id": "citi-rewards-plus",
     "name": "Rewards+",
     "bank": "Citi",
@@ -2839,7 +2668,7 @@
   },
   {
     "id": "discover-it-miles",
-    "name": "Discover it Miles",
+    "name": "it Miles",
     "bank": "Discover",
     "network": "discover",
     "defaultColor": 4279900718,
@@ -2857,7 +2686,7 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-17T00:00:00.000Z",
-    "updatedAt": "2026-03-17T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "1.5x Miles Everything",
@@ -3397,7 +3226,7 @@
   },
   {
     "id": "fidelity-rewards-visa",
-    "name": "Fidelity Rewards Visa Signature",
+    "name": "Rewards Visa Signature",
     "bank": "Fidelity",
     "network": "visa",
     "defaultColor": 4280183612,
@@ -3409,7 +3238,7 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-17T00:00:00.000Z",
-    "updatedAt": "2026-03-17T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "2% Everything",
