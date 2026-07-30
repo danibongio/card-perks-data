@@ -10,20 +10,29 @@
     "isActive": true,
     "annualFee": 95,
     "signupBonus": {
-      "description": "60,000 bonus points after spending $4,000 in the first 3 months",
-      "value": 60000,
+      "description": "75,000 bonus points after spending $5,000 in the first 3 months",
+      "value": 75000,
       "valueType": "points",
-      "spendRequirement": 4000,
+      "spendRequirement": 5000,
       "validityMonths": 3
     },
     "logoUrl": null,
     "referralUrl": "https://www.google.com/",
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
+        "title": "5x Chase Travel",
+        "description": "5x points on travel booked through Chase Travel",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
         "title": "3x Dining",
-        "description": "3x points on dining worldwide",
+        "description": "3x points on dining, including takeout",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
@@ -31,20 +40,38 @@
         "validityMonths": null
       },
       {
-        "title": "3x Travel",
-        "description": "3x points on travel worldwide",
-        "emoji": "✈️",
-        "category": "travel",
+        "title": "3x Streaming",
+        "description": "3x points on select streaming services",
+        "emoji": "📺",
+        "category": "streaming",
         "cashbackPercent": 3,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
-        "title": "5x Chase Travel",
-        "description": "5x points on travel booked through Chase Travel",
-        "emoji": "🏨",
+        "title": "3x Gas & EV",
+        "description": "3x points on gas and EV charging",
+        "emoji": "⛽",
+        "category": "gas",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Online Groceries",
+        "description": "3x points on online groceries (excl. Target, Walmart, wholesale clubs)",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 3,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Travel",
+        "description": "2x points on all other travel",
+        "emoji": "🧳",
         "category": "travel",
-        "cashbackPercent": 5,
+        "cashbackPercent": 2,
         "isFeatured": false,
         "validityMonths": null
       },
@@ -68,19 +95,37 @@
     "defaultTextColor": 4294951680,
     "description": "Ultra-premium travel card with $300 annual travel credit",
     "isActive": true,
-    "annualFee": 550,
+    "annualFee": 795,
     "signupBonus": {
-      "description": "60,000 bonus points after spending $4,000 in the first 3 months",
-      "value": 60000,
+      "description": "150,000 bonus points after spending $6,000 in the first 3 months",
+      "value": 150000,
       "valueType": "points",
-      "spendRequirement": 4000,
+      "spendRequirement": 6000,
       "validityMonths": 3
     },
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
+      {
+        "title": "8x Chase Travel",
+        "description": "8x points on all Chase Travel purchases",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 8,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "4x Flights & Hotels",
+        "description": "4x points on flights and hotels booked direct",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 4,
+        "isFeatured": true,
+        "validityMonths": null
+      },
       {
         "title": "3x Dining",
         "description": "3x points on dining worldwide",
@@ -91,47 +136,11 @@
         "validityMonths": null
       },
       {
-        "title": "3x Travel",
-        "description": "3x points on travel after $300 credit is earned",
-        "emoji": "✈️",
-        "category": "travel",
-        "cashbackPercent": 3,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "10x Hotels & Car Rentals",
-        "description": "10x points on hotels and car rentals through Chase Travel",
-        "emoji": "🏨",
-        "category": "travel",
-        "cashbackPercent": 10,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "$300 Travel Credit",
-        "description": "Up to $300 annual statement credit for travel purchases",
-        "emoji": "💰",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "Priority Pass Lounge",
-        "description": "Unlimited airport lounge access with Priority Pass Select",
-        "emoji": "🛋️",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "Global Entry / TSA PreCheck",
-        "description": "Up to $100 credit for Global Entry or TSA PreCheck",
-        "emoji": "🛂",
-        "category": "travel",
-        "cashbackPercent": null,
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
         "isFeatured": false,
         "validityMonths": null
       }
@@ -302,7 +311,7 @@
     "defaultTextColor": 4278190080,
     "description": "Top rewards on dining and US supermarkets",
     "isActive": true,
-    "annualFee": 250,
+    "annualFee": 325,
     "signupBonus": {
       "description": "60,000 Membership Rewards points after spending $6,000 in the first 6 months",
       "value": 60000,
@@ -313,11 +322,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "4x Dining",
-        "description": "4x Membership Rewards points at restaurants worldwide",
+        "description": "4x points at restaurants worldwide (up to $50k/yr)",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 4,
@@ -325,8 +334,8 @@
         "validityMonths": null
       },
       {
-        "title": "4x US Supermarkets",
-        "description": "4x points at US supermarkets (up to $25,000/year)",
+        "title": "4x Groceries",
+        "description": "4x points at U.S. supermarkets (up to $25k/yr)",
         "emoji": "🛒",
         "category": "groceries",
         "cashbackPercent": 4,
@@ -335,7 +344,7 @@
       },
       {
         "title": "3x Flights",
-        "description": "3x points on flights booked directly with airlines or Amex Travel",
+        "description": "3x points on flights booked direct or via Amex Travel",
         "emoji": "✈️",
         "category": "travel",
         "cashbackPercent": 3,
@@ -343,20 +352,11 @@
         "validityMonths": null
       },
       {
-        "title": "$120 Dining Credit",
-        "description": "$10/month dining credit at select restaurants and delivery services",
-        "emoji": "💰",
-        "category": "dining",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "$120 Uber Cash",
-        "description": "$10/month Uber Cash for Uber Eats or Uber rides in the US",
-        "emoji": "🚗",
-        "category": "transit",
-        "cashbackPercent": null,
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
         "isFeatured": false,
         "validityMonths": null
       }
@@ -371,7 +371,7 @@
     "defaultTextColor": 4294951680,
     "description": "The ultimate premium travel card with extensive credits and lounge access",
     "isActive": true,
-    "annualFee": 695,
+    "annualFee": 895,
     "signupBonus": {
       "description": "80,000 Membership Rewards points after spending $8,000 in the first 6 months",
       "value": 80000,
@@ -382,11 +382,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "5x Flights",
-        "description": "5x points on flights booked directly or through Amex Travel",
+        "description": "5x points on flights booked direct or via Amex Travel (up to $500k/yr)",
         "emoji": "✈️",
         "category": "travel",
         "cashbackPercent": 5,
@@ -394,8 +394,8 @@
         "validityMonths": null
       },
       {
-        "title": "5x Hotels",
-        "description": "5x points on prepaid hotels booked through Amex Travel",
+        "title": "5x Prepaid Hotels",
+        "description": "5x points on prepaid hotels booked via Amex Travel",
         "emoji": "🏨",
         "category": "travel",
         "cashbackPercent": 5,
@@ -403,47 +403,11 @@
         "validityMonths": null
       },
       {
-        "title": "$200 Airline Credit",
-        "description": "Up to $200 annual airline fee credit",
-        "emoji": "💰",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "$200 Uber Cash",
-        "description": "$15/month Uber Cash ($20 in December) for rides and Uber Eats",
-        "emoji": "🚗",
-        "category": "transit",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "Centurion Lounge Access",
-        "description": "Complimentary access to Amex Centurion Lounges worldwide",
-        "emoji": "🛋️",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "$240 Digital Entertainment",
-        "description": "Up to $240/year for select digital entertainment subscriptions",
-        "emoji": "📱",
-        "category": "streaming",
-        "cashbackPercent": null,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "Global Entry / TSA PreCheck",
-        "description": "Up to $100 credit for Global Entry or TSA PreCheck",
-        "emoji": "🛂",
-        "category": "travel",
-        "cashbackPercent": null,
+        "title": "1x Everything Else",
+        "description": "1x points on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 1,
         "isFeatured": false,
         "validityMonths": null
       }
@@ -598,11 +562,20 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
+        "title": "5x Citi Travel",
+        "description": "5x on hotels, car rentals & attractions via Citi Travel",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
         "title": "2% Everything",
-        "description": "1% when you buy + 1% when you pay your bill",
+        "description": "2% cash back on all purchases (1% buy + 1% pay)",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 2,
@@ -709,20 +682,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "2x Miles Everything",
-        "description": "2x miles on every purchase",
-        "emoji": "✈️",
-        "category": "other",
-        "cashbackPercent": 2,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "5x Hotels & Rentals",
-        "description": "5x miles on hotels and rental cars booked via Capital One Travel",
+        "title": "5x Hotels & Cars",
+        "description": "5x miles on hotels & rental cars via Capital One Travel",
         "emoji": "🏨",
         "category": "travel",
         "cashbackPercent": 5,
@@ -730,12 +694,12 @@
         "validityMonths": null
       },
       {
-        "title": "Global Entry / TSA PreCheck",
-        "description": "Up to $100 credit for Global Entry or TSA PreCheck",
-        "emoji": "🛂",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": false,
+        "title": "2x Everything",
+        "description": "2x miles on all other purchases",
+        "emoji": "💳",
+        "category": "other",
+        "cashbackPercent": 2,
+        "isFeatured": true,
         "validityMonths": null
       }
     ]
@@ -760,20 +724,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "2x Miles Everything",
-        "description": "2x miles on every purchase",
-        "emoji": "✈️",
-        "category": "other",
-        "cashbackPercent": 2,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "10x Hotels & Rentals",
-        "description": "10x miles on hotels and rental cars through Capital One Travel",
+        "title": "10x Hotels & Cars",
+        "description": "10x miles on hotels & rental cars via Capital One Travel",
         "emoji": "🏨",
         "category": "travel",
         "cashbackPercent": 10,
@@ -782,38 +737,20 @@
       },
       {
         "title": "5x Flights",
-        "description": "5x miles on flights booked through Capital One Travel",
-        "emoji": "🛫",
+        "description": "5x miles on flights, vacation rentals & activities via Capital One Travel",
+        "emoji": "✈️",
         "category": "travel",
         "cashbackPercent": 5,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "$300 Travel Credit",
-        "description": "Up to $300 annual credit for bookings through Capital One Travel",
-        "emoji": "💰",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "Capital One Lounge",
-        "description": "Unlimited access to Capital One and Plaza Premium Lounges",
-        "emoji": "🛋️",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "10,000 Anniversary Miles",
-        "description": "10,000 bonus miles every year on your account anniversary",
-        "emoji": "🎁",
+        "title": "2x Everything",
+        "description": "2x miles on all other purchases",
+        "emoji": "💳",
         "category": "other",
-        "cashbackPercent": null,
-        "isFeatured": false,
+        "cashbackPercent": 2,
+        "isFeatured": true,
         "validityMonths": null
       }
     ]
@@ -949,13 +886,22 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-10T02:31:00.000Z",
-    "updatedAt": "2026-03-10T02:31:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "2x Travel & Dining",
-        "description": "2x points on travel and dining purchases",
+        "title": "2x Travel",
+        "description": "2x points on travel",
         "emoji": "✈️",
         "category": "travel",
+        "cashbackPercent": 2,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Dining",
+        "description": "2x points on dining",
+        "emoji": "🍽️",
+        "category": "dining",
         "cashbackPercent": 2,
         "isFeatured": true,
         "validityMonths": null
@@ -966,25 +912,7 @@
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1.5,
-        "isFeatured": false,
-        "validityMonths": null
-      },
-      {
-        "title": "$100 Airline Credit",
-        "description": "Up to $100 annual airline incidental fee credit",
-        "emoji": "💰",
-        "category": "travel",
-        "cashbackPercent": null,
         "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "Global Entry / TSA PreCheck",
-        "description": "Up to $100 credit for Global Entry or TSA PreCheck",
-        "emoji": "🛂",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": false,
         "validityMonths": null
       }
     ]
@@ -1361,7 +1289,7 @@
     "defaultTextColor": 4294967295,
     "description": "Entry-level Southwest card for earning Rapid Rewards points toward the Companion Pass",
     "isActive": true,
-    "annualFee": 69,
+    "annualFee": 99,
     "signupBonus": {
       "description": "50,000 bonus points after spending $1,000 in the first 3 months",
       "value": 50000,
@@ -1372,7 +1300,7 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
-    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "2x Southwest Purchases",
@@ -1777,7 +1705,7 @@
   },
   {
     "id": "citi-strata-premier",
-    "name": "Citi Strata Premier",
+    "name": "Strata Premier",
     "bank": "Citi",
     "network": "mastercard",
     "defaultColor": 4278205295,
@@ -1795,11 +1723,20 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
-    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "3x Hotels & Air Travel",
-        "description": "3x ThankYou points on hotels, air travel, and car rentals",
+        "title": "10x Citi Travel",
+        "description": "10x on hotels, car rentals & attractions via Citi Travel",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 10,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Air & Hotels",
+        "description": "3x on air travel and hotels",
         "emoji": "✈️",
         "category": "travel",
         "cashbackPercent": 3,
@@ -1807,8 +1744,8 @@
         "validityMonths": null
       },
       {
-        "title": "3x Restaurants",
-        "description": "3x ThankYou points at restaurants",
+        "title": "3x Dining",
+        "description": "3x on restaurants",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
@@ -1816,17 +1753,17 @@
         "validityMonths": null
       },
       {
-        "title": "3x Supermarkets",
-        "description": "3x ThankYou points at supermarkets",
+        "title": "3x Groceries",
+        "description": "3x at supermarkets",
         "emoji": "🛒",
         "category": "groceries",
         "cashbackPercent": 3,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
-        "title": "3x Gas Stations",
-        "description": "3x ThankYou points at gas stations and EV charging stations",
+        "title": "3x Gas & EV",
+        "description": "3x at gas stations and EV charging",
         "emoji": "⛽",
         "category": "gas",
         "cashbackPercent": 3,
@@ -1834,17 +1771,8 @@
         "validityMonths": null
       },
       {
-        "title": "$100 Hotel Savings",
-        "description": "$100 annual savings benefit for a single hotel stay of $500+ booked through CitiTravel",
-        "emoji": "💰",
-        "category": "travel",
-        "cashbackPercent": null,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
         "title": "1x Everything Else",
-        "description": "1x ThankYou points on all other purchases",
+        "description": "1x on all other purchases",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1,
@@ -1924,12 +1852,12 @@
   },
   {
     "id": "capital-one-savor",
-    "name": "Savor Cash Rewards",
+    "name": "Savor",
     "bank": "Capital One",
     "network": "mastercard",
     "defaultColor": 4291042874,
     "defaultTextColor": 4294967295,
-    "description": "Best-in-class cash back on dining, entertainment and groceries — no annual fee",
+    "description": "No-annual-fee dining, entertainment & grocery cash back",
     "isActive": true,
     "annualFee": 0,
     "signupBonus": {
@@ -1942,11 +1870,29 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
-    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "3% Dining",
-        "description": "3% cash back at restaurants, bars, and dining delivery services",
+        "title": "8x Capital One Entertainment",
+        "description": "8% back on tickets via Capital One Entertainment",
+        "emoji": "🎟️",
+        "category": "entertainment",
+        "cashbackPercent": 8,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "5x Hotels & Cars",
+        "description": "5% on hotels & rental cars via Capital One Travel",
+        "emoji": "🏨",
+        "category": "travel",
+        "cashbackPercent": 5,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Dining",
+        "description": "3% on dining",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
@@ -1954,26 +1900,35 @@
         "validityMonths": null
       },
       {
-        "title": "3% Grocery Stores",
-        "description": "3% cash back at grocery stores (excluding superstores like Walmart and Target)",
+        "title": "3x Entertainment",
+        "description": "3% on entertainment",
+        "emoji": "🎭",
+        "category": "entertainment",
+        "cashbackPercent": 3,
+        "isFeatured": true,
+        "validityMonths": null
+      },
+      {
+        "title": "3x Groceries",
+        "description": "3% at grocery stores",
         "emoji": "🛒",
         "category": "groceries",
         "cashbackPercent": 3,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
-        "title": "3% Entertainment",
-        "description": "3% cash back on popular entertainment including streaming services",
-        "emoji": "🎭",
+        "title": "3x Streaming",
+        "description": "3% on popular streaming services",
+        "emoji": "📺",
         "category": "streaming",
         "cashbackPercent": 3,
-        "isFeatured": true,
+        "isFeatured": false,
         "validityMonths": null
       },
       {
-        "title": "1% Everything Else",
-        "description": "1% cash back on all other purchases",
+        "title": "1x Everything Else",
+        "description": "1% on all other purchases",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1,
@@ -2044,11 +1999,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
-    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "5x Travel via Portal",
-        "description": "5x points on prepaid hotels and car rentals through the Altitude Rewards Center",
+        "title": "5x Prepaid Travel",
+        "description": "5x on prepaid hotels & car rentals via Altitude Rewards Center",
         "emoji": "🏨",
         "category": "travel",
         "cashbackPercent": 5,
@@ -2056,26 +2011,17 @@
         "validityMonths": null
       },
       {
-        "title": "4x Airlines & Hotels",
-        "description": "4x points on travel including airlines, hotels, car rentals, and rideshares",
-        "emoji": "✈️",
+        "title": "4x Travel & Gas",
+        "description": "4x on travel and gas/EV charging",
+        "emoji": "⛽",
         "category": "travel",
         "cashbackPercent": 4,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "4x Gas & EV Charging",
-        "description": "4x points at gas stations and EV charging stations",
-        "emoji": "⛽",
-        "category": "gas",
-        "cashbackPercent": 4,
-        "isFeatured": true,
-        "validityMonths": null
-      },
-      {
-        "title": "2x Dining & Streaming",
-        "description": "2x points at restaurants and on eligible streaming services",
+        "title": "2x Dining",
+        "description": "2x on dining",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 2,
@@ -2083,8 +2029,26 @@
         "validityMonths": null
       },
       {
+        "title": "2x Groceries",
+        "description": "2x at grocery stores",
+        "emoji": "🛒",
+        "category": "groceries",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "2x Streaming",
+        "description": "2x on streaming services",
+        "emoji": "📺",
+        "category": "streaming",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
         "title": "1x Everything Else",
-        "description": "1x points on all other purchases",
+        "description": "1x on all other purchases",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1,
@@ -2202,7 +2166,7 @@
     "network": "mastercard",
     "defaultColor": 4278190080,
     "defaultTextColor": 4294967295,
-    "description": "Earn points on rent payments with no transaction fee — unique no-annual-fee travel card",
+    "description": "NOTE: Wells Fargo exited Bilt in early 2026; Bilt 2.0 is now issued by Cardless. Verify/replace or remove.",
     "isActive": true,
     "annualFee": 0,
     "signupBonus": {
@@ -2215,7 +2179,7 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-13T00:00:00.000Z",
-    "updatedAt": "2026-03-13T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
         "title": "1x Rent (no fee)",
@@ -2392,11 +2356,11 @@
     "logoUrl": null,
     "referralUrl": null,
     "createdAt": "2026-03-17T00:00:00.000Z",
-    "updatedAt": "2026-03-17T00:00:00.000Z",
+    "updatedAt": "2026-07-29T00:00:00.000Z",
     "perks": [
       {
-        "title": "4% Gas & EV Charging",
-        "description": "4% cash back on eligible gas and EV charging purchases (up to $7,000/year)",
+        "title": "4x Gas & EV",
+        "description": "4% on gas & EV charging (5% at Costco gas), up to $7k/yr",
         "emoji": "⛽",
         "category": "gas",
         "cashbackPercent": 4,
@@ -2404,8 +2368,8 @@
         "validityMonths": null
       },
       {
-        "title": "3% Restaurants & Travel",
-        "description": "3% cash back at restaurants and on eligible travel purchases",
+        "title": "3x Dining",
+        "description": "3% on restaurants",
         "emoji": "🍽️",
         "category": "dining",
         "cashbackPercent": 3,
@@ -2413,17 +2377,26 @@
         "validityMonths": null
       },
       {
-        "title": "2% Costco",
-        "description": "2% cash back on all Costco and Costco.com purchases",
-        "emoji": "🏪",
-        "category": "shopping",
-        "cashbackPercent": 2,
+        "title": "3x Travel",
+        "description": "3% on eligible travel",
+        "emoji": "✈️",
+        "category": "travel",
+        "cashbackPercent": 3,
         "isFeatured": true,
         "validityMonths": null
       },
       {
-        "title": "1% Everything Else",
-        "description": "1% cash back on all other purchases",
+        "title": "2x Costco",
+        "description": "2% on Costco & Costco.com purchases",
+        "emoji": "🛒",
+        "category": "shopping",
+        "cashbackPercent": 2,
+        "isFeatured": false,
+        "validityMonths": null
+      },
+      {
+        "title": "1x Everything Else",
+        "description": "1% on all other purchases",
         "emoji": "💳",
         "category": "other",
         "cashbackPercent": 1,
